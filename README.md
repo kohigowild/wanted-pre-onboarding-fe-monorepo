@@ -1,1 +1,1 @@
-# yarn-berry-workspace
+# monorepo 환경 구축
